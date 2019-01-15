@@ -10,7 +10,7 @@ Talkative Chef is a collaborative project created during the 3rd annual Hack the
 Gap event. 
 
 ## About Us:
-Kosi:
+Kosi: I am a PhD Cultural and Psychological human-centered Anthropologist with 7 years experience in user research on group identity formation, language, social mobilization, and marketing. I have a background in human-centered design, business consulting, venture capitalism, and peer-to-peer Internet technologies. 
 
 Lisa:
 
